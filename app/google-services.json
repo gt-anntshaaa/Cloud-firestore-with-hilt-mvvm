@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "14514811705",
+    "project_id": "crud-with-di-hilt",
+    "storage_bucket": "crud-with-di-hilt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14514811705:android:b6982e33ca08519957aee8",
+        "android_client_info": {
+          "package_name": "com.example.firebasefirestorewithhilt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14514811705-nd9ls47vdc3eoi23ct89runpth0gqbi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasefirestorewithhilt",
+            "certificate_hash": "f00f58bcc2735d94db1d2245d167839a6e9fa9ba"
+          }
+        },
+        {
+          "client_id": "14514811705-754582j3g5of9b1ma1qn75tc9di73758.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhixiT5KUEeTrTw-apEYOFysKE4DXd_Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14514811705-754582j3g5of9b1ma1qn75tc9di73758.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
